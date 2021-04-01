@@ -6,7 +6,7 @@ parameters:
   # When you need to force a rebuild of the node modules cache then bump this version
   node-modules-cache-version:
     type: integer
-    default: 5
+    default: 6
 reference:
   workspace: &workspace ~/app
   ## Configurations
